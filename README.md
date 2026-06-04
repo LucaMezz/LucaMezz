@@ -1,19 +1,29 @@
-# Luca Mezzavilla
+# Hi, I'm Luca 👋
 
 Computer Science graduate from Monash University building full-stack developer tools and open-source software.
 
-I’m currently working on CodeLane, a developer-focused task management and issue tracking app, and AppKit, a full-stack starter kit for building apps across web, desktop, API, and CLI surfaces.
+Currently building **CodeLane**, a developer-focused issue tracking and task management app.
 
-## Featured work
+## Featured projects
 
-- **CodeLane** — open-source issue tracking and project management for developers.
-- **AppKit** — full-stack TypeScript monorepo with React, Electron, Express, PostgreSQL, Auth.js, Docker, and CI.
+| Project | Description | Tech |
+| --- | --- | --- |
+| [CodeLane](https://github.com/LucaMezz/codelane) | Developer-focused task and issue tracking | TypeScript, React, Node.js, PostgreSQL |
+| [AppKit](https://github.com/LucaMezz/appkit) | Full-stack app starter kit for web, desktop, API, and CLI | React, Electron, Express, Docker |
+| [algorithms-from-scratch](https://github.com/LucaMezz/algorithms-from-scratch) | Typed and tested Python algorithms/data structures | Python, pytest, mypy |
 
-## Tech
+## Tech stack
 
-TypeScript, React, Node.js, Express, PostgreSQL, Drizzle ORM, Docker, GitHub Actions, Python, Java, SQL, Rust.
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Java, SQL |
+| Frontend | React, HTML, CSS, Tailwind CSS, shadcn/ui |
+| Backend | Node.js, Express, REST APIs |
+| Databases & ORM | PostgreSQL, Oracle RDBMS, Drizzle ORM |
+| Desktop & CLI | Electron, Node.js CLI tools |
+| Tooling & DevOps | Git, GitHub, GitHub Actions, Docker, pnpm, Turborepo, VS Code |
+| Testing & Quality | Vitest, pytest, mypy, Ruff, oxlint |
 
 ## Links
 
-Portfolio: lucamezzavilla.dev  
-LinkedIn: linkedin.com/in/lucamezzavilla
+[Portfolio](https://lucamezzavilla.dev) · [LinkedIn](https://linkedin.com/in/lucamezzavilla)
