@@ -1,14 +1,14 @@
 # Hi, I'm Luca 👋
 
-Computer Science graduate from Monash University building full-stack developer tools and open-source software.
+Computer Science graduate from Monash University — full-stack engineer with a focus on developer tools, and a growing interest in language design and compilers.
 
-Currently building **CodeLane**, a developer-focused issue tracking and task management app.
+Currently building **Roo**, an embeddable, statically-typed scripting language with Hindley-Milner-style type inference, traits, structs, and enums, written in Rust. It is designed to be dropped into other applications as a safe, sandboxed scripting layer.
 
 ## Featured projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [CodeLane](https://github.com/LucaMezz/codelane) | Developer-focused task and issue tracking | TypeScript, React, Node.js, PostgreSQL |
+| [roo-lang](https://github.com/LucaMezz/roo-lang) | Embeddable, statically-typed scripting language with type inference, traits, structs, and enums | Rust |
 | [AppKit](https://github.com/LucaMezz/appkit) | Full-stack app starter kit for web, desktop, API, and CLI | React, Electron, Express, Docker |
 | [algorithms-from-scratch](https://github.com/LucaMezz/algorithms-from-scratch) | Typed and tested Python algorithms/data structures | Python, pytest, mypy |
 
@@ -16,7 +16,7 @@ Currently building **CodeLane**, a developer-focused issue tracking and task man
 
 | Area | Technologies |
 | --- | --- |
-| Languages | TypeScript, JavaScript, Python, Java, SQL |
+| Languages | Rust, TypeScript, JavaScript, Python, Java, SQL |
 | Frontend | React, HTML, CSS, Tailwind CSS, shadcn/ui |
 | Backend | Node.js, Express, REST APIs |
 | Databases & ORM | PostgreSQL, Oracle RDBMS, Drizzle ORM |
